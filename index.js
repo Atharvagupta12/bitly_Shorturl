@@ -32,5 +32,5 @@ app.get("/:shortId", async (req, res)=> {
 })
 
 app.listen(port, () => {
-    console.log("system started");
+    console.log("system start");
 })
